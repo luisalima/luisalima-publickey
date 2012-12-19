@@ -1,7 +1,7 @@
 luisalima-publickey
 ===================
 
-GPG public key for luisamoyalima@gmail.com
+GPG public key for my e-mail addresses.
 
 
 
